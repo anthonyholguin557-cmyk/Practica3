@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1762187970,,"wq"
+|2,0,1762192650,,"wq"
 :s
 |2,0,1762185505,,"s"
 
@@ -27,42 +27,64 @@
 # Registers:
 
 # File marks:
-'0  25  0  ~/proceso_fork.c
-|4,48,25,0,1762187970,"~/proceso_fork.c"
+'0  71  5  ~/modifica_fork.c
+|4,48,71,5,1762192650,"~/modifica_fork.c"
 '1  25  0  ~/proceso_fork.c
-|4,49,25,0,1762187370,"~/proceso_fork.c"
-'2  1  481  ~/proceso_fork.c
-|4,50,1,481,1762187213,"~/proceso_fork.c"
-'3  21  0  ~/proceso_fork.c
-|4,51,21,0,1762187213,"~/proceso_fork.c"
-'4  1  481  ~/proceso_fork.c
-|4,52,1,481,1762187213,"~/proceso_fork.c"
-'5  21  0  ~/proceso_fork.c
-|4,53,21,0,1762187213,"~/proceso_fork.c"
-'6  1  309  ~/proceso_fork.c
-|4,54,1,309,1762186335,"~/proceso_fork.c"
-'7  1  423  ~/proceso_fork.c
-|4,55,1,423,1762186335,"~/proceso_fork.c"
-'8  1  309  ~/proceso_fork.c
-|4,56,1,309,1762186335,"~/proceso_fork.c"
-'9  17  24  ~/proceso_fork.c
-|4,57,17,24,1762186335,"~/proceso_fork.c"
+|4,49,25,0,1762187970,"~/proceso_fork.c"
+'2  25  0  ~/proceso_fork.c
+|4,50,25,0,1762187370,"~/proceso_fork.c"
+'3  1  481  ~/proceso_fork.c
+|4,51,1,481,1762187213,"~/proceso_fork.c"
+'4  21  0  ~/proceso_fork.c
+|4,52,21,0,1762187213,"~/proceso_fork.c"
+'5  1  481  ~/proceso_fork.c
+|4,53,1,481,1762187213,"~/proceso_fork.c"
+'6  21  0  ~/proceso_fork.c
+|4,54,21,0,1762187213,"~/proceso_fork.c"
+'7  1  309  ~/proceso_fork.c
+|4,55,1,309,1762186335,"~/proceso_fork.c"
+'8  1  423  ~/proceso_fork.c
+|4,56,1,423,1762186335,"~/proceso_fork.c"
+'9  1  309  ~/proceso_fork.c
+|4,57,1,309,1762186335,"~/proceso_fork.c"
 
 # Jumplist (newest first):
+-'  71  5  ~/modifica_fork.c
+|4,39,71,5,1762192650,"~/modifica_fork.c"
+-'  1  0  ~/modifica_fork.c
+|4,39,1,0,1762192621,"~/modifica_fork.c"
 -'  25  0  ~/proceso_fork.c
 |4,39,25,0,1762187970,"~/proceso_fork.c"
+-'  25  0  ~/proceso_fork.c
+|4,39,25,0,1762187970,"~/proceso_fork.c"
+-'  25  0  ~/proceso_fork.c
+|4,39,25,0,1762187370,"~/proceso_fork.c"
 -'  25  0  ~/proceso_fork.c
 |4,39,25,0,1762187370,"~/proceso_fork.c"
 -'  1  481  ~/proceso_fork.c
 |4,39,1,481,1762187333,"~/proceso_fork.c"
 -'  1  481  ~/proceso_fork.c
 |4,39,1,481,1762187333,"~/proceso_fork.c"
+-'  1  481  ~/proceso_fork.c
+|4,39,1,481,1762187333,"~/proceso_fork.c"
+-'  1  481  ~/proceso_fork.c
+|4,39,1,481,1762187333,"~/proceso_fork.c"
+-'  21  0  ~/proceso_fork.c
+|4,39,21,0,1762187213,"~/proceso_fork.c"
+-'  21  0  ~/proceso_fork.c
+|4,39,21,0,1762187213,"~/proceso_fork.c"
 -'  21  0  ~/proceso_fork.c
 |4,39,21,0,1762187213,"~/proceso_fork.c"
 -'  21  0  ~/proceso_fork.c
 |4,39,21,0,1762187213,"~/proceso_fork.c"
 -'  1  309  ~/proceso_fork.c
 |4,39,1,309,1762187182,"~/proceso_fork.c"
+-'  1  309  ~/proceso_fork.c
+|4,39,1,309,1762187182,"~/proceso_fork.c"
+-'  17  24  ~/proceso_fork.c
+|4,39,17,24,1762186335,"~/proceso_fork.c"
+-'  17  24  ~/proceso_fork.c
+|4,39,17,24,1762186335,"~/proceso_fork.c"
 -'  17  24  ~/proceso_fork.c
 |4,39,17,24,1762186335,"~/proceso_fork.c"
 -'  17  24  ~/proceso_fork.c
@@ -71,6 +93,12 @@
 |4,39,7,14,1762186123,"~/proceso_fork.c"
 -'  7  14  ~/proceso_fork.c
 |4,39,7,14,1762186123,"~/proceso_fork.c"
+-'  7  14  ~/proceso_fork.c
+|4,39,7,14,1762186123,"~/proceso_fork.c"
+-'  7  14  ~/proceso_fork.c
+|4,39,7,14,1762186123,"~/proceso_fork.c"
+-'  7  14  ~/proceso_fork.c
+|4,39,7,14,1762186078,"~/proceso_fork.c"
 -'  7  14  ~/proceso_fork.c
 |4,39,7,14,1762186078,"~/proceso_fork.c"
 -'  6  35  ~/proceso_fork.c
@@ -79,12 +107,26 @@
 |4,39,6,35,1762186051,"~/proceso_fork.c"
 -'  6  35  ~/proceso_fork.c
 |4,39,6,35,1762186051,"~/proceso_fork.c"
+-'  6  35  ~/proceso_fork.c
+|4,39,6,35,1762186051,"~/proceso_fork.c"
+-'  6  35  ~/proceso_fork.c
+|4,39,6,35,1762186051,"~/proceso_fork.c"
+-'  6  35  ~/proceso_fork.c
+|4,39,6,35,1762186051,"~/proceso_fork.c"
 -'  19  0  ~/proceso_fork.c
 |4,39,19,0,1762186040,"~/proceso_fork.c"
 -'  19  0  ~/proceso_fork.c
 |4,39,19,0,1762186040,"~/proceso_fork.c"
 -'  19  0  ~/proceso_fork.c
 |4,39,19,0,1762186040,"~/proceso_fork.c"
+-'  19  0  ~/proceso_fork.c
+|4,39,19,0,1762186040,"~/proceso_fork.c"
+-'  19  0  ~/proceso_fork.c
+|4,39,19,0,1762186040,"~/proceso_fork.c"
+-'  19  0  ~/proceso_fork.c
+|4,39,19,0,1762186040,"~/proceso_fork.c"
+-'  19  0  ~/proceso_fork.c
+|4,39,19,0,1762185941,"~/proceso_fork.c"
 -'  19  0  ~/proceso_fork.c
 |4,39,19,0,1762185941,"~/proceso_fork.c"
 -'  1  0  ~/proceso_fork.c
@@ -94,9 +136,25 @@
 -'  1  0  ~/proceso_fork.c
 |4,39,1,0,1762184997,"~/proceso_fork.c"
 -'  1  0  ~/proceso_fork.c
+|4,39,1,0,1762184997,"~/proceso_fork.c"
+-'  1  0  ~/proceso_fork.c
+|4,39,1,0,1762184997,"~/proceso_fork.c"
+-'  1  0  ~/proceso_fork.c
+|4,39,1,0,1762184997,"~/proceso_fork.c"
+-'  1  0  ~/proceso_fork.c
+|4,39,1,0,1762184397,"~/proceso_fork.c"
+-'  1  0  ~/proceso_fork.c
 |4,39,1,0,1762184397,"~/proceso_fork.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/modifica_fork.c
+	*	1762192647	0
+	"	71	5
+	^	72	1
+	.	71	0
+	+	72	0
+	+	71	0
 
 > ~/proceso_fork.c
 	*	1762187963	0

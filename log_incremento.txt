@@ -1,0 +1,11 @@
+Registro de valores de la variable:
+Proceso hijo PID:4156, Valor registrado: 10
+Proceso hijo PID:4156, Valor registrado: 20
+Proceso hijo PID:4156, Valor registrado: 30
+Proceso hijo PID:4156, Valor registrado: 40
+Proceso hijo PID:4156, Valor registrado: 50
+Proceso hijo PID:4156, Valor registrado: 60
+Proceso hijo PID:4156, Valor registrado: 70
+Proceso hijo PID:4156, Valor registrado: 80
+Proceso hijo PID:4156, Valor registrado: 90
+Proceso hijo PID:4156, Valor registrado: 100
